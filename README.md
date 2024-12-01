@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! meu nome é João Marcos e eu sou de Itajaí-SC</h2>
+<h2 align="center">Olá👋! meu nome é João Marcos e eu sou de Itajaí-SC</h2>
 
 ###
 
